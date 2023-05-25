@@ -19,7 +19,7 @@ export default {
         };
     },
     components: {
-        VueDraggableResizable
+        VueDraggableResizable,
     },
     mounted() {
         
